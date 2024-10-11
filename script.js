@@ -33,8 +33,8 @@ let track_list = [
     artist: "RAFI SAHAB",
     album_image_small_jpg: "https://res.cloudinary.com/dnsjdvzdn/image/upload/v1728644138/size_m_srbnli.jpg",
     album_image_small_webp: "https://res.cloudinary.com/dnsjdvzdn/image/upload/v1728644138/size_m_srbnli.jpg",
-    album_image_big_jpg: "https://res.cloudinary.com/dnsjdvzdn/image/upload/v1728644139/main-zindagi-ka-saath-nibhata-mp3-song-download_pgdd8p.webp",
-    album_image_big_webp: "https://res.cloudinary.com/dnsjdvzdn/image/upload/v1728644139/main-zindagi-ka-saath-nibhata-mp3-song-download_pgdd8p.webp",
+    album_image_big_jpg: "https://res.cloudinary.com/dnsjdvzdn/image/upload/v1728644335/hq720_k4ifd0.jpg",
+    album_image_big_webp: "https://res.cloudinary.com/dnsjdvzdn/image/upload/v1728644335/hq720_k4ifd0.jpg",
     path: "Main_Zindagi_Ka.mp3"
   },
   {
